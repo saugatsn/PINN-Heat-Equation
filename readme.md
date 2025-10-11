@@ -47,7 +47,7 @@ pip install -r requirements.txt
 jupyter notebook pinn_heat_equation.ipynb
 ```
 
-The notebook trains the network for 2000 epochs and visualizes:
+The notebook trains the network and visualizes:
 - Loss curves during training
 - Predictions vs analytical solution at different time steps
 - Full spatiotemporal heatmaps
