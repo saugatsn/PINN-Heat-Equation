@@ -1,6 +1,6 @@
 # Physics-Informed Neural Networks for the 1D Heat Equation
 
-Learn how neural networks can solve differential equations by encoding physical laws directly into the loss function. This implementation tackles the 1D heat equation from multiple angles: solving it with known parameters, discovering unknown parameters from data, predicting beyond training boundaries, and quantifying prediction uncertainty.
+This implementation tackles the 1D heat equation from multiple angles: solving it with known parameters, discovering unknown parameters from data, predicting beyond training boundaries, and quantifying prediction uncertainty.
 
 ## The Problem
 
